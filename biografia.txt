@@ -4,8 +4,4 @@ Javier Gualpa tiene 20 años y
 
 nacio en Quito-Tumbaco
 
-Hoy hablaremos de su historia.  
-
-Actualmente es estudiante de PLatzi
-
-Objetivo:Conseguir un empleo con Front-end Developer
+Hoy hablaremos de su historia y de su vida como estudiante de Platzi
