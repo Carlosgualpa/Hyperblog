@@ -41,3 +41,10 @@ body{
     font-size: 0.8em;
     font-weight: normal;
 }
+
+.footer{
+    text-align: center;
+    background-color: #33a;
+    padding: 10px;
+    color: azure;
+}
