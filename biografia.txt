@@ -2,7 +2,9 @@ Esta es la historia de Javier Gualpa
 
 Javier Gualpa tiene 20 años y nacio en Quito-Tumbaco
  
-Gabriel Gualpa tiene 11 años y nacio en Quito
+Gabriel Gualpa tiene 11 años y nacio en Quito 
+
+Gabriel gualpa aporta a este proyecto open source
 
 Hoy hablaremos de su historia y de su vida como estudiante de Platzi
 
